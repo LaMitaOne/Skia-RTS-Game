@@ -65,7 +65,6 @@ MIT License - Do whatever you want with it. Credits appreciated but not required
 Happy conquering! 🚀👾
 
 More game prototypes:
-   <img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/a7d22ba7-dee9-4b12-a27a-96631013beb0" />
 
 https://github.com/LaMitaOne/Skia_PlatformerGame   
 https://github.com/LaMitaOne/SkiaStarPatrols    
