@@ -2,7 +2,7 @@
 # Skia-RTS-Game
 A 2.5D Real-Time Strategy prototype built entirely with Skia4Delphi. A Command &amp; Conquer style experience, featuring A* pathfinding, isometric rendering, AI skirmish combat, destructible environments, and thread-safe particle physics. 
 
-RADStudio FMX / Skia4Delphi RTS Prototype "Skia RTS Game" v0.1 alpha  
+RADStudio FMX / Skia4Delphi RTS Prototype "Skia RTS Game" v0.4 alpha  
    
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-RTS-Game)
         
