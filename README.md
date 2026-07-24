@@ -3,6 +3,9 @@ A 2.5D Real-Time Strategy prototype built entirely with Skia4Delphi. A Command &
 
 RADStudio FMX / Skia4Delphi RTS Prototype "Skia RTS Game" v0.1 alpha  
    
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-RTS-Game)
+     
+   
 <img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/9ce2dd7b-74e4-4440-8dd7-fc33fd4f6043" />
 
 This is an alpha build. It's not perfect—god knows there might still be hidden bugs or visual quirks—but it is a fully working, highly feature-rich C&C clone that goes way beyond basic movement and shooting. Enjoy! :D
