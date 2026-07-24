@@ -71,3 +71,6 @@ https://github.com/LaMitaOne/SkiaStarPatrols
 https://github.com/LaMitaOne/Skiatris   
 https://github.com/LaMitaOne/Skia-A-Cats-Life   
 https://github.com/LaMitaOne/SkiaLemmings   
+     
+Uses royalty free audios from    
+https://www.pavsmusic.com/free-sound-pack-kits/    
