@@ -77,3 +77,5 @@ https://github.com/LaMitaOne/SkiaLemmings
      
 Uses royalty free audios from    
 https://www.pavsmusic.com/free-sound-pack-kits/    
+
+...and yes my little Asus dualcore M3 ux305ca Zenbook can do this still too :D   
