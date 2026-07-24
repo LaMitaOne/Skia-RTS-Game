@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.544,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,C:\Users\Lenovo\Downloads\SkiaRTSGame\Project1.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,C:\Users\Lenovo\Downloads\SkiaRTSGame\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,C:\Users\Lenovo\Downloads\SkiaRTSGame\SkiaRTSProto.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\SkiaRTSProto.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,C:\Users\Lenovo\Downloads\SkiaRTSGame\Unit1.fmx=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\SkiaRTSProto.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
