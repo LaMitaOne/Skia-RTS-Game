@@ -10,7 +10,7 @@ RADStudio FMX / Skia4Delphi RTS Prototype "Skia RTS Game" v0.4 alpha
    
 Sample Video: [(https://youtu.be/Rjs-OW2iUtM)](https://www.youtube.com/watch?v=L-cS5v5wYAY)    
     
-This is an alpha build. It's not perfect— there are sure hidden bugs or visual quirks—but it is a fully working, highly feature-rich C&C clone that goes way beyond basic movement and shooting. If you ever wanted to make your own c&c, that's the easiest way possible. (1 file, 3k lines with lots comments) Enjoy! :D
+This is an alpha build. It's not perfect— there are sure hidden bugs or visual quirks—but it is a playable, highly feature-rich C&C clone that goes way beyond basic movement and shooting. If you ever wanted to make your own c&c, that's the easiest way possible. (1 file, 3k lines with lots comments) Enjoy! :D
 
 🎮 Gameplay Features
 
