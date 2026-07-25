@@ -81,3 +81,14 @@ Uses royalty free audios from
 https://www.pavsmusic.com/free-sound-pack-kits/    
 
 ...and yes my little Asus dualcore M3 ux305ca Zenbook can do this still too :D   
+   
+
+   
+If you want to tip me a coffee.. :)   
+    
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=RX5KTTMXW497Q">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal"/>
+  </a>
+</p>
+        
